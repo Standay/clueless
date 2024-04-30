@@ -2,7 +2,7 @@
     "name": "Clueless",
     "symbol": "IDK",
     "description": "I don't really know",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/Standay/clueless/main/clueless.png",
     "attributes": [
       {
         "trait_type": "Item",
